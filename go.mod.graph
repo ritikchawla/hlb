@@ -1,0 +1,30 @@
+{
+	"Path": "github.com/ritikchawla/load-balancer",
+	"Main": true,
+	"Dir": "/Users/ritikchawla/Desktop/Ritik/Personal/Projects/git/load-balancer",
+	"GoMod": "/Users/ritikchawla/Desktop/Ritik/Personal/Projects/git/load-balancer/go.mod",
+	"GoVersion": "1.23.0"
+}
+{
+	"Path": "gopkg.in/check.v1",
+	"Version": "v0.0.0-20161208181325-20d25e280405",
+	"Time": "2016-12-08T18:13:25Z",
+	"Indirect": true,
+	"GoMod": "/Users/ritikchawla/go/pkg/mod/cache/download/gopkg.in/check.v1/@v/v0.0.0-20161208181325-20d25e280405.mod",
+	"GoModSum": "h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0="
+}
+{
+	"Path": "gopkg.in/yaml.v3",
+	"Version": "v3.0.1",
+	"Time": "2022-05-27T08:35:30Z",
+	"Indirect": true,
+	"Dir": "/Users/ritikchawla/go/pkg/mod/gopkg.in/yaml.v3@v3.0.1",
+	"GoMod": "/Users/ritikchawla/go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/v3.0.1.mod",
+	"Sum": "h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=",
+	"GoModSum": "h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM="
+}
+------------------------------------------------------
+github.com/ritikchawla/load-balancer go@1.23.0
+github.com/ritikchawla/load-balancer gopkg.in/yaml.v3@v3.0.1
+go@1.23.0 toolchain@go1.23.0
+gopkg.in/yaml.v3@v3.0.1 gopkg.in/check.v1@v0.0.0-20161208181325-20d25e280405
